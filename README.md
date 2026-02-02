@@ -59,7 +59,7 @@ git clone <your-repo-url>
 
 ## Автор и контакты
 
-- Автор: **Добавьте своё имя здесь**
+- Автор: https://github.com/kochurovmaxim
 - Исходное задание: https://www.frontendmentor.io (QR code component)
 
 ---
